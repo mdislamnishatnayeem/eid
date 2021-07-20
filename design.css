@@ -1,0 +1,33 @@
+@media only screen and (max-width: 1366px) {
+    body{
+        background-color:white;
+    }
+    
+    .middle{
+       /* background-image:url(/pexels-chattrapal-\(shitij\)-singh-2989625.jpg);*/
+        background-position: center;
+        float: left;
+        width: 50%;
+        color:darkred;
+        font-size:25px;
+        font-weight: bolder;
+        font-family: 'Uchen', serif;
+        padding: 0px;
+        margin: 0px;
+        
+    }
+    .middleee{
+        /* background-image:url(/pexels-chattrapal-\(shitij\)-singh-2989625.jpg);*/
+         background-position: center;
+         float:right;
+         width: 50%;
+         color:green;
+         font-size:25px;
+         font-weight: bolder;
+         font-family: 'Uchen', serif;
+         padding: 0px;
+         margin: 0px;
+     }
+ 
+
+}
